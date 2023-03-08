@@ -1,3 +1,5 @@
 Novo arquivo de teste do github
 
 Arquivo editado pelo GitHub :)
+
+Novo, versão 2 teste
